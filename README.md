@@ -13,6 +13,7 @@ _Para poder tener la copia del proyecto de manera ideal necesitarias los siguien
 
 ```
 NetBeans y un SGBD Relacionales
+
 ```
 
 ### Instalación 🔧
